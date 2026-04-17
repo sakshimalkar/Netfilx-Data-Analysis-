@@ -34,8 +34,8 @@ Netflix dataset in CSV format containing details about movies and TV shows.
 3. Run netflix_analysis.ipynb
 
 ## 🌐 Live Demo
-(Optional - add Streamlit / dashboard link here)
-
+ https://sakshimalkar.github.io/Netfilx-Data-Analysis-/
+ 
 ## 📌 Future Improvements
 - Interactive dashboard using Streamlit
 - Machine Learning recommendations
